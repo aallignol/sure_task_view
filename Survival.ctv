@@ -1512,6 +1512,7 @@ or submit a pull request.</p>
   <pkg>ROCt</pkg>
   <pkg>rpart</pkg>
   <pkg>rsig</pkg>
+  <pkg>rstanarm</pkg>
   <pkg>rstpm2</pkg>
   <pkg>saws</pkg>
   <pkg>SemiCompRisks</pkg>
